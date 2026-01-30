@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.sqlite3
+venv/
+.env
+
+# Django
+*.log
+
+# Node / Vue
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
