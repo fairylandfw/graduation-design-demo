@@ -1,0 +1,22 @@
+{
+  "name": "sentiment-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^3.3.0",
+    "vue-router": "^4.2.0",
+    "axios": "^1.4.0",
+    "element-plus": "^2.3.0",
+    "echarts": "^5.4.0",
+    "vue-echarts": "^6.6.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.0",
+    "sass": "^1.63.0",
+    "sass-loader": "^13.3.0"
+  }
+}
